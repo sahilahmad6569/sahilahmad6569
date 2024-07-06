@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sahil Ahmad 👋</h1>
+<h1 align="center">Hi there, I'm Sahil 👋</h1>
 
 <p align="center">
   <a href="https://github.com/sahilahmad6569"><img src="https://img.shields.io/github/followers/sahilahmad6569?style=social" alt="GitHub Profile"></a>
@@ -17,17 +17,6 @@
 *Integral University, Lucknow, India*  
 July 2022 – June 2025  
 CGPA: 9.60/10.00
-
-**Intermediate**  
-*Central Board of Secondary Education (CBSE), India*  
-2021  
-Subjects: Physics, Chemistry & Mathematics  
-GPA: 8.94/10.00
-
-**High School**  
-*Central Board of Secondary Education (CBSE), India*  
-2019  
-GPA: 8.52/10.00
 
 ---
 
