@@ -7,7 +7,7 @@
   <a href="https://sahilahmad.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen"></a>
 </p>
 
-<p align="center">Passionate Computer Applications student with expertise in Python, web technologies, scripting, automation, data analytics, and visualization. Committed to continuous learning and exploring AI and advanced libraries to solve complex problems.</p>
+<p align="center">Passionate undergraduate Python & C++ Developer with expertise in web technologies, scripting, and automation. Driven to learn continuously and explore advanced libraries to tackle complex challenges.</p>
 
 ---
 
