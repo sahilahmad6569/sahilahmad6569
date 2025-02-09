@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/sahilahmad6569"><img src="https://img.shields.io/github/followers/sahilahmad6569?style=social" alt="GitHub Profile"></a>
-  <a href="https://linkedin.com/in/sahil-ahmad-tech"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
+  <a href="https://linkedin.com/in/sahil-ahmad-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
   <a href="mailto:sahilahmad6569@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red"></a>
   <a href="https://sahilahmad.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen"></a>
 </p>
