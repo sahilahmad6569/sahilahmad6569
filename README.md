@@ -189,8 +189,8 @@ const sahil = {
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=sahilahmad6569&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/sahilahmad6569/AI_ChatBot)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=sahilahmad6569&repo=another-repo&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/sahilahmad6569/AttendanceNotifier)
+[![Attendance Notifier](https://github-readme-stats.vercel.app/api/pin/?username=sahilahmad6569&repo=AttendanceNotifier&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/sahilahmad6569/AttendanceNotifier)
+[![AI ChatBot](https://github-readme-stats.vercel.app/api/pin/?username=sahilahmad6569&repo=AI_ChatBot&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/sahilahmad6569/AI_ChatBot)
 
 </div>
 
